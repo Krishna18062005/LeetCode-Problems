@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
