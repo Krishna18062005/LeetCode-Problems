@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
