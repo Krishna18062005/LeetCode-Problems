@@ -19,7 +19,7 @@ static int encrypt(int a){
     int l=m;
     for(int i=1;i<dc;i++){
        m=m*10+l;
-       System.out.println(m);
+      // System.out.println(m);
     }
     return m;
 }
