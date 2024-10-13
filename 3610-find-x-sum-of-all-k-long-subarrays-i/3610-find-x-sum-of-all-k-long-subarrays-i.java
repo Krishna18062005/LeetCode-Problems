@@ -16,7 +16,6 @@ class Solution {
         }
         Set<Integer> set=new HashSet<>();
         for(int i:na) set.add(i);
-        if(x>set.size()) return sum(na);
         int c=0;
         int su=0;
         int[] fre=new int[51];
@@ -40,12 +39,4 @@ class Solution {
        }
         return su;
     }
-    public static int sum(int[] a){
-        int s=0;
-        for(int i:a){
-            s+=i;
-        }
-        return s;
-    } 
-
 }
