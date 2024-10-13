@@ -1,12 +1,9 @@
 class Solution {
     public int[] findXSum(int[] nums, int k, int x) {
-      
         int[] ans=new int[nums.length-k+1];
-        for(int i=0;i+k<=nums.length;i++){
-            ans[i]=sum(nums,i,k,x);
-        }
+        for(int i=0;i+k<=nums.length;i++)
+            ans[i]=sum(nums,i,k,x);       
         return ans;
-
     }
     public static int sum(int[] nums,int s,int k,int x){
         int[] na=new int[k];
