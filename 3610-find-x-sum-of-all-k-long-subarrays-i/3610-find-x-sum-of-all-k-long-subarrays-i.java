@@ -10,17 +10,15 @@ class Solution {
     }
     public static int sum(int[] nums,int s,int k,int x){
         int[] na=new int[k];
-        int ix=0;
         for(int i=s;i<s+k;i++){
-            na[ix++]=nums[i];
-        }
-        
+            na[i-s]=nums[i];
+        }        
         int c=0;
         int su=0;
         int[] fre=new int[51];
         Arrays.sort(na);
         for(int i:na) fre[i]++;
-        while(c<x){
+        while(c++<x){
             int max=0;
             int maxi=0;
             for(int i :na){
@@ -29,12 +27,7 @@ class Solution {
                     maxi=i;
                 }}
                 fre[maxi]=0;
-                int cc=0;
-                while(cc<max){
-                    su+=maxi;
-                    cc++;
-                }
-                c++;
+                su+=(maxi*max);
        }
         return su;
     }
