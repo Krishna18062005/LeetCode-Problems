@@ -14,8 +14,7 @@ class Solution {
         for(int i=s;i<s+k;i++){
             na[ix++]=nums[i];
         }
-        Set<Integer> set=new HashSet<>();
-        for(int i:na) set.add(i);
+        
         int c=0;
         int su=0;
         int[] fre=new int[51];
