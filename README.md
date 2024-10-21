@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0907-koko-eating-bananas](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
