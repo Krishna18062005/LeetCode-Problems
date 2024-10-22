@@ -8,9 +8,11 @@ class Solution {
                 c++;
                 for(int j=1;j*i<n;j++){
                     arr[j*i]=false;
-                    }
-                }
+                    
+                            }
+                                        }
         }
-       return c;
+        
+        return c;
     }
     }
