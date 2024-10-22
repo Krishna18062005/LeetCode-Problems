@@ -6,7 +6,7 @@ class Solution {
         for(int i=2;i<n;i++){
             if(arr[i]){
                 c++;
-               // System.out.println(""+i);
+              // System.out.println(""+i);
                 for(int j=1;j*i<n;j++){
                     arr[j*i]=false;
                     
