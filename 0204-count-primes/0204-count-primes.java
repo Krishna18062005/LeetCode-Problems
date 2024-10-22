@@ -8,7 +8,7 @@ class Solution {
         for(int i=3;i<n;i+=2){
             if(arr[i]){
                 c++;
-                for(int j=1;j*i<n;j++){
+                for(int j=2;j*i<n;j++){
                     arr[j*i]=false;
                 }
             }
