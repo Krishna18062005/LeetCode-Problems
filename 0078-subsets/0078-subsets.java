@@ -5,14 +5,11 @@ class Solution {
         return ans;
     }
     public static void backTrack(List<List<Integer>> ans,List<Integer> temp,int[] arr,int k){
-
+        while(k<arr.length){   
+            temp.add(arr[k]);
+            backTrack(ans,temp,arr,++k);
+            temp.remove(temp.size()-1);
+        }
         ans.add(new ArrayList<>(temp)); 
-        
-        while(k<arr.length){       
-        temp.add(arr[k]);
-        backTrack(ans,temp,arr,k+1);
-        temp.remove(temp.size()-1);
-        k++;
-       }
     }
 }
