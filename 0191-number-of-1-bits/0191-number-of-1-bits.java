@@ -6,7 +6,6 @@ public class Solution {
             a+=(n&1);
             n>>=1;
             }
-            System.gc();
         return a;
     }
 }
