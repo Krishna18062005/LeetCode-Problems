@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0338-counting-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
