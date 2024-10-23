@@ -7,9 +7,12 @@ class Solution {
     public static void backTrack(List<List<Integer>> ans,List<Integer> temp,int[] arr,int k){
 
         ans.add(new ArrayList<>(temp)); 
-        for(int i=k;i<arr.length;i++){       
-        temp.add(arr[i]);
-        backTrack(ans,temp,arr,i+1);
-        temp.remove(temp.size()-1);   }
+        
+        while(k<arr.length){       
+        temp.add(arr[k]);
+        backTrack(ans,temp,arr,k+1);
+        temp.remove(temp.size()-1);
+        k++;
+       }
     }
 }
