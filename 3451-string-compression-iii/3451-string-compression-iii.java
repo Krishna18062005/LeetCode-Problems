@@ -16,7 +16,7 @@ class Solution {
                     ans.append(c);
                     ans.append(prev);
                     c=0;
-                    prev=word.charAt(i);
+                   // prev=word.charAt(i);
                 }
                 c++;
             }
