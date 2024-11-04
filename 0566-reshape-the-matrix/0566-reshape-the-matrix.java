@@ -6,7 +6,7 @@ class Solution {
         int col=mat[0].length;
         int ri=0;
         int ci=-1;
-        System.out.print(row+" "+col);
+        
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 int num=0;
