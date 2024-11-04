@@ -15,7 +15,7 @@ class Solution {
                 if(c>8){
                     ans.append(c);
                     ans.append(prev);
-                    c-=9;
+                    c=0;
                     prev=word.charAt(i);
                 }
                 c++;
