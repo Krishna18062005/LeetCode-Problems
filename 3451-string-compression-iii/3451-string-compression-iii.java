@@ -27,8 +27,9 @@ class Solution {
             ans.append(prev);
 
         }
-        System.gc();
+        
         return ans.toString();
+        
 
     }
 }
