@@ -18,7 +18,7 @@ class Solution {
                     num=mat[++ri][ci];
                 }
                 ans[i][j]=num;
-                System.out.println(ri+" "+ci);
+             
             }
         }
         return ans;
