@@ -8,18 +8,16 @@ class Solution {
                 ans.append(c);
                 ans.append(prev);
                 c=1;
-                prev=word.charAt(i);
             }
             else{
-                
-                if(c>8){
-                    ans.append(c);
+                 c++;
+                if(c>9){
+                    ans.append('9');
                     ans.append(prev);
-                    c=0;
-                   // prev=word.charAt(i);
-                }
-                c++;
+                    c=1;
+                }              
             }
+            prev=word.charAt(i);
 
         }
         if(c>0){
