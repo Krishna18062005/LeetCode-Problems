@@ -6,7 +6,7 @@ class Solution {
         Arrays.fill(di,Integer.MAX_VALUE);
         di[src]=0;
        for(int i=0;i<=k;i++){
-             int[] dis=di.clone(); 
+             int[] dis=di.clone(); //temp
             for(int j=0;j<flights.length;j++){
                
                 if(di[flights[j][0]]!=Integer.MAX_VALUE){
