@@ -3,11 +3,9 @@ class Solution {
         int[] arr=new int[32];
         int ans=0;
         for(int i:candidates){
-           
             for(int j=0;j<32;j++){
-                
                 arr[j]+=(i&1);
-                ans=Math.max(ans,arr[j]);
+                if(ans<arr[j]) ans=arr[j];
                 i>>=1;
             }
         }
