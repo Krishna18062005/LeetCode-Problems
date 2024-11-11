@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0812-rotate-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0812-rotate-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
