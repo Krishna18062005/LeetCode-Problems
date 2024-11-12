@@ -24,8 +24,8 @@ class Solution {
         Arrays.sort(items,(a,b)->a[0]-b[0]);
         int max=0;
         for(int i=0;i<items.length;i++){
-            items[i][1]=Math.max(items[i][1],max);
-            max=Math.max(max,items[i][1]);
+            if(items[i][1]<max) items[i][1]=max;
+            else max=items[i][1];
         }
         
         int ans[]=new int[queries.length];
