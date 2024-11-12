@@ -27,7 +27,7 @@ class Solution {
             items[i][1]=Math.max(items[i][1],max);
             max=Math.max(max,items[i][1]);
         }
-        System.out.println(Arrays.deepToString(items));
+        
         int ans[]=new int[queries.length];
         for(int i=0;i<queries.length;i++){
             int l=0;
@@ -46,7 +46,7 @@ class Solution {
                     r=mid-1;
                 }
             }
-           // System.out.println(l+" "+r);
+           
             if(an!=0)
             ans[i]=an;           
             else if(items.length>r&&r>=0)
