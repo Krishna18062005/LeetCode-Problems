@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
