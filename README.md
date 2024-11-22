@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
