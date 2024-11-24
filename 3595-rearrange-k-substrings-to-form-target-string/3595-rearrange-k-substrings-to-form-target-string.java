@@ -9,7 +9,7 @@ class Solution {
                 map.put(req,map.get(req)+1);
             }
             else
-            map.put(s.substring(i,i+d),1);
+            map.put(req,1);
         }
         for(int i=0;i<t.length();i+=d){
             String tar=t.substring(i,i+d);
