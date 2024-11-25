@@ -6,10 +6,13 @@ class Solution {
         int c=0;
         for(int[] rows:matrix){
             for(int i:rows){
-                sum+=Math.abs(i);
+                
                 if(i<0){
-                    c++;}
-                    min=Math.min(Math.abs(i),min);
+                    c++;
+                    i=-i;}
+                    sum+=(i);
+                    if(min>i) min=i;
+                    //min=Math.min(i,min);
                 
                 
             }
