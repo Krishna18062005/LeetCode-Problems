@@ -11,7 +11,8 @@ class Solution {
                     c++;
                     i=-i;}
                     sum+=(i);
-                    if(min>i) min=i;
+                    if(min>i) 
+                    min=i;
             }
         }
         if(c%2==1) sum-=2*min;
