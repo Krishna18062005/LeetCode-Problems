@@ -12,9 +12,6 @@ class Solution {
                     i=-i;}
                     sum+=(i);
                     if(min>i) min=i;
-                    //min=Math.min(i,min);
-                
-                
             }
         }
         if(c%2==1) sum-=2*min;
