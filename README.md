@@ -358,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
