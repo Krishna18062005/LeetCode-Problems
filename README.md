@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Enumeration
