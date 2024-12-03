@@ -3,10 +3,11 @@ class Solution {
         StringBuilder ans=new StringBuilder();
         int p=0;
         for(int i=0;i<s.length();i++){
-            if(p<spaces.length&&spaces[p]==i){
+            if(spaces[p]==i){
                 ans.append(" ");
                 p++;
             }
+            if(p==spaces.length) return ans.toString()+s.substring(i);
             ans.append(s.charAt(i));
 
         }
