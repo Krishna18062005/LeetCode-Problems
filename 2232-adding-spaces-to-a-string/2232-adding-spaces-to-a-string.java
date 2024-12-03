@@ -7,7 +7,7 @@ class Solution {
                 ans.append(" ");
                 p++;
             }
-            if(p==spaces.length) return ans.toString()+s.substring(i);
+            if(p==spaces.length){ ans.append(s.substring(i)); break;}
             ans.append(s.charAt(i));
 
         }
