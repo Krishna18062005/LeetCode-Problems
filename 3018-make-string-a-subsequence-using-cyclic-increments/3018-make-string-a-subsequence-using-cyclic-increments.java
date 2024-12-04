@@ -4,12 +4,10 @@ class Solution {
         int j=0;
         int n1=str1.length();
         int n2=str2.length();
-        if(n1<n2) return false;
         while(i<n1&&j<n2){
-            if(str1.charAt(i)==str2.charAt(j)||str1.charAt(i)+1==str2.charAt(j)){
+            if(str1.charAt(i)==str2.charAt(j)||str1.charAt(i)+1==str2.charAt(j)||(str1.charAt(i)=='z'&&str2.charAt(j)=='a')){
                 j++;
             }
-           else if(str1.charAt(i)=='z'&&str2.charAt(j)=='a') j++;
             i++;
 
         }
