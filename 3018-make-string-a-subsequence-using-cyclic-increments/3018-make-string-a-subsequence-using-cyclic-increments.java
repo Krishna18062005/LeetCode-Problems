@@ -10,6 +10,7 @@ class Solution {
             }
            else if(str1.charAt(i)=='z'&&str2.charAt(j)=='a') j++;
             i++;
+            if(i==n1&&j!=n2) return false;
 
         }
         return j==n2;
