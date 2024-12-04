@@ -9,6 +9,7 @@ class Solution {
                 j++;
             }
             i++;
+            if(j==n2) return true;
 
         }
         return j==n2;
