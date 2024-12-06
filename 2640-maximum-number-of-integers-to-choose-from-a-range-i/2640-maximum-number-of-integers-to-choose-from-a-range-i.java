@@ -9,6 +9,7 @@ class Solution {
         int s=0;
         int c=0;
         for(int i=1;i<=n;i++){
+            if(s+i>maxSum) break;
             if(!set.contains(i)){
                 if(s+i>maxSum) break;
                 if(s+i<=maxSum){
