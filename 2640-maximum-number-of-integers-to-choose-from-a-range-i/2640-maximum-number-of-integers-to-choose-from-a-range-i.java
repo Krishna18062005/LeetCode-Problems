@@ -10,10 +10,12 @@ class Solution {
         int c=0;
         for(int i=1;i<=n;i++){
             if(!set.contains(i)){
+                if(s+i>maxSum) break;
                 if(s+i<=maxSum){
                     s+=i;
                     c++;
                 }
+
             }
         }
         return c;
