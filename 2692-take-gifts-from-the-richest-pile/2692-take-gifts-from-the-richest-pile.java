@@ -9,7 +9,7 @@ class Solution {
                     max=gifts[j];
                 }
             }
-            gifts[maxi]=(int)Math.pow(gifts[maxi],0.5);
+            gifts[maxi]=(int)Math.sqrt(gifts[maxi]);
         }
         long s=0;
         for(int i:gifts) s+=(long)i;
