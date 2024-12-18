@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1940-maximum-xor-for-each-query](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1944-truncate-sentence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
