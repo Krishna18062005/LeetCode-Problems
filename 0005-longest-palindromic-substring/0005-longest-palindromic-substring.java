@@ -1,27 +1,42 @@
 class Solution {
+
+    private int start = 0;
+    private int end = 0;
+
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
 
-        int start = 0, end = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int len1 = expandAroundCenter(s, i, i); // Odd length palindrome
-            int len2 = expandAroundCenter(s, i, i + 1); // Even length palindrome
-            int len = Math.max(len1, len2);
+        int n = s.length();
+        char[] arr = s.toCharArray();
+        helper(arr, n, 0);
 
-            if (len > end - start) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+        return s.substring(start, end+1);
+    }
+
+    private void helper(char[] arr, int n, int i) {
+        if (i >= n) {
+            return;
+        }
+
+        int left = i;
+        int right = i;
+
+        while (right < n-1 && arr[right+1] == arr[right]) right++;
+        i = right;
+
+        while (left > 0 && right < n-1) {
+            if (arr[left-1] == arr[right+1]) {
+                left--;
+                right++;
+            } else {
+                break;
             }
         }
 
-        return s.substring(start, end + 1);
-    }
-
-    private int expandAroundCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+        if ((right - left) > (end - start)) {
+            start = left;
+            end = right;
         }
-        return right - left - 1;
+
+        helper(arr, n, i + 1);
     }
 }
