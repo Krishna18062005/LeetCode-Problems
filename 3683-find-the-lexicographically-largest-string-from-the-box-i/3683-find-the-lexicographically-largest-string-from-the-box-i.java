@@ -33,7 +33,7 @@ class Solution {
         String ans="";
         int n=word.length();
         for(int i=0;i<n;i++){
-            if(i+1>=numFriends){
+            if(i>=numFriends-1){
                 if(ans.compareTo(word.substring(i,n))<0) ans=word.substring(i,n);    
             } 
             else if(ans.compareTo(word.substring(i,i+len))<0) ans=word.substring(i,i+len);
