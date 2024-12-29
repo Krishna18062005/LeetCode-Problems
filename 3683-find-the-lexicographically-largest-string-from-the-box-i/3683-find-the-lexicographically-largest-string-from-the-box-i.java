@@ -13,12 +13,14 @@ class Solution {
             }
         }
         for(int i=0;i<word.length();i++){
-            if(ch==word.charAt(i)) ls.add(word.length()-i);
+            if(ch==word.charAt(i)){ 
+                if(word.length()-i<len)
+                ls.add(word.length()-i);}
         }
         ls.add(len);
         
         for(int le:ls){
-            if(le>len){continue;}
+            
         for(int i=0;i+le<=word.length();i++){
             if(ans.compareTo(word.substring(i,i+le))<0) ans=word.substring(i,i+le);
         }}
