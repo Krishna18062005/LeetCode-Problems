@@ -6,12 +6,10 @@ class Solution {
         int n=word.length();
         for(int i=0;i<n;i++){
             if(i+1>=numFriends){
-                if(ans.compareTo(word.substring(i,n))<0) ans=word.substring(i,n);
-                continue;
-                
+                if(ans.compareTo(word.substring(i,n))<0) ans=word.substring(i,n);    
             } 
-            if(ans.compareTo(word.substring(i,i+len))<0) ans=word.substring(i,i+len);}
-        
+            else if(ans.compareTo(word.substring(i,i+len))<0) ans=word.substring(i,i+len);
+        }
         return ans;
     }
 }
