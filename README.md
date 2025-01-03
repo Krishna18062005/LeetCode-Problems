@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Queue
