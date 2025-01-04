@@ -1,3 +1,4 @@
+import java.util.regex.Pattern;
 class Solution {
     public boolean hasMatch(String s, String p) {
         String[] parts = p.split("\\*", 2);
@@ -11,5 +12,6 @@ class Solution {
         if(pre.equals("")) j=0;
         if(i==-1||j==-1) return false;
         return true;
+        
     }
 }
