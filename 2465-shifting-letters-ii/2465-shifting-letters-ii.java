@@ -16,7 +16,7 @@ class Solution {
                 frd[j]--;
             }
         }
-       //System.out.println(Arrays.toString(frd));
+       
         char[] as=s.toCharArray();
         for(int i=0;i<len;i++){
             as[i]=(char)((((frd[i]+(as[i]-'a'))%26+26))%26+'a');
