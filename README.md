@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3451-string-compression-iii) |
@@ -394,11 +396,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -456,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
