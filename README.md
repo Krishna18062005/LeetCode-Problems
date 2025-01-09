@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
