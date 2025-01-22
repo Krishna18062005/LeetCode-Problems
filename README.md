@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
