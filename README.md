@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0907-koko-eating-bananas](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
