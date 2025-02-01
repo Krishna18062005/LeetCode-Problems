@@ -8,7 +8,7 @@ class Solution {
             int fs=s.charAt(i-1);
             int sd=s.charAt(i);
             if(fs!=sd&&fre[fs-'0']==fs-'0'&&fre[sd-'0']==sd-'0'){
-                return s.charAt(i-1)+""+s.charAt(i);                
+                return fs-'0'+""+(sd-'0');                
             }
         }
         return "";
