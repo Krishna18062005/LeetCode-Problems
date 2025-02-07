@@ -1,11 +1,7 @@
 public class Solution {
     
     public int hammingWeight(int n) {
-        int a=0;
-        while(n!=0){           
-            a+=(n&1);
-            n>>=1;
-            }
-        return a;
+        if(n<=1) return 1; 
+        return (n&1)+hammingWeight(n>>1);
     }
 }
