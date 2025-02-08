@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [1502-construct-k-palindrome-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0507-perfect-number) |
+| [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
