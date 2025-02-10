@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
@@ -559,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
