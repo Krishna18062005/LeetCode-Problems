@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
@@ -598,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
