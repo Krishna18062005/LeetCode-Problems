@@ -17,7 +17,7 @@ class Solution {
      ArrayList<Integer> arr=new ArrayList<>();
     public int minDiffInBST(TreeNode root) {
         inorder(root);
-        System.out.println(arr);
+        
         int min=Integer.MAX_VALUE;
         for(int i=1;i<arr.size();i++){
             min=Math.min(min,arr.get(i)-arr.get(i-1));
