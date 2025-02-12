@@ -9,18 +9,17 @@
  */
 
 class Solution {
-    static TreeNode ans=null;
+    
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {       
-        inorder(root,p,q);
-        return ans;
-    }
-    public static void inorder(TreeNode root,TreeNode p,TreeNode q){
-        if(root==null){return;}
-        inorder(root.left,p,q);
-        if(p.val<=root.val&&root.val<=q.val||q.val<=root.val&&root.val<=p.val){
-            ans= root;
-            return;
+        while(root!=null){
+            if(p.val<root.val&&root.val>q.val) root=root.left;
+            
+            else if(p.val>root.val&&root.val<q.val) root=root.right;
+            
+            else{
+                return root;
+            }
         }
-        inorder(root.right,p,q);        
-        }
+        return null;
     }
+}
