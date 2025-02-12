@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2465-shifting-letters-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
