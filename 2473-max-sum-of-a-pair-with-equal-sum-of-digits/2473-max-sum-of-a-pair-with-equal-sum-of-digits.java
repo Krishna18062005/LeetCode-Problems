@@ -1,7 +1,8 @@
 class Solution {
     public int maximumSum(int[] nums) {
-        int ans=0;
-        HashMap<Integer,Integer> map=new HashMap<>();
+        int ans=-1;
+       
+        int[] ar=new int[82];
         for(int i:nums){
             int s=0;
             int t=i;
@@ -9,19 +10,18 @@ class Solution {
                 s+=t%10;
                 t/=10;
             }
-            if(!map.containsKey(s)){
+            if(ar[s]==0){
                 
-                map.put(s,i);
+                ar[s]=i;
 
             }
             else{
-                ans=Math.max(i+map.get(s),ans);
-                int mxx=Math.max(i,map.get(s));
-                map.put(s,mxx);
+                ans=Math.max(i+ar[s],ans);
+                int mxx=Math.max(i,ar[s]);
+                ar[s]=mxx;
             }
         }
-       // System.out.print(map);
-        if(map.size()==nums.length) return -1;
+       
        
         return ans;
 
