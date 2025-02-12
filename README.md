@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0744-network-delay-time](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0744-network-delay-time) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Union Find
 |  |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Counting Sort
 |  |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0744-network-delay-time) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
