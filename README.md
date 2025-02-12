@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0507-perfect-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
