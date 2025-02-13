@@ -17,7 +17,7 @@ class Solution {
             }
 
         }
-        System.out.print(pq);
+        //System.out.print(pq);
         return c+pq.size();
     }
 }
