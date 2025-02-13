@@ -14,15 +14,15 @@ class Solution {
         ind=0;
         for(int i:groups){
             int an=Integer.MAX_VALUE;
-            boolean ch=false;
+            
          for(int j=1;j*j<=i;j++){
             if(i%j==0){
                 if(el.containsKey(j)){
-                    ch=true;
+                    
                     an=Math.min(el.get(j),an);
                 }
                 if(el.containsKey(i/j)){
-                    ch=true;
+                    
                     an=Math.min(el.get(i/j),an);
                 }
             }
