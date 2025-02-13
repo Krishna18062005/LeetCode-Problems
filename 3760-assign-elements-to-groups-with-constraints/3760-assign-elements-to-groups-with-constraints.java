@@ -28,8 +28,8 @@ class Solution {
             }
 
          }
-         if(ch)
-         ans[ind]=an;
+         
+         ans[ind]=(an==Integer.MAX_VALUE)?-1:an;
          ind++;
         }
         
