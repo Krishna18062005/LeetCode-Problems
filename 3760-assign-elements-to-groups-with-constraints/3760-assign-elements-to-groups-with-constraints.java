@@ -16,16 +16,15 @@ class Solution {
             int an=Integer.MAX_VALUE;
             
          for(int j=1;j*j<=i;j++){
-            if(i%j==0){
-                if(el.containsKey(j)){
-                    
+            if(i%j==0&&el.containsKey(j)){
+                  
                     an=Math.min(el.get(j),an);
-                }
-                if(el.containsKey(i/j)){
+            }
+                if(i%j==0&&el.containsKey(i/j)){
                     
                     an=Math.min(el.get(i/j),an);
                 }
-            }
+            
 
          }
          
