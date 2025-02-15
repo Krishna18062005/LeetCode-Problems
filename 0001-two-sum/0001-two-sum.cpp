@@ -6,7 +6,7 @@ public:
         vector<int>a;
        for(i=0;i<nums.size()&&k==0;i++){
            for(j=i+1;j<nums.size();j++){
-               if(nums[i]+nums[j]==targevvt){
+               if(nums[i]+nums[j]==target){
                    k=1;
                    break;
                }
