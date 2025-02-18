@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3709-find-special-substring-of-length-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3709-find-special-substring-of-length-k) |
 ## Brainteaser
 |  |
 | ------- |
