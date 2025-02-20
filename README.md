@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2089-maximum-matrix-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2155-find-missing-observations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0078-subsets) |
+| [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
