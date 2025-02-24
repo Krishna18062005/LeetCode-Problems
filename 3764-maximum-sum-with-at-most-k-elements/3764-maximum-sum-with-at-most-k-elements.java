@@ -4,11 +4,12 @@ class Solution {
         PriorityQueue<Integer> pq=new PriorityQueue<>((a,b)->b-a);
         
         for(int i=0;i<grid.length;i++){
+            int t=limits[i];
             PriorityQueue<Integer> curr=new PriorityQueue<>((a,b)->b-a);
             for(int j=0;j<grid[i].length;j++){
                 curr.offer(grid[i][j]);
             }
-            while(limits[i]-->0){
+            while(t-->0){
                 pq.offer(curr.poll());
             }            
         }
