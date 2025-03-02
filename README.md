@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Enumeration
 |  |
