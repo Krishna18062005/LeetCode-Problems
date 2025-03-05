@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3199-distribute-candies-among-children-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3199-distribute-candies-among-children-i) |
