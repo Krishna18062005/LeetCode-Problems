@@ -1,6 +1,6 @@
 class Solution {
     public int[] closestPrimes(int left, int right) {
-        List<Integer> ls=new ArrayList<>();
+        ArrayList<Integer> ls=new ArrayList<>();
         for(int i=left;i<=right;i++){
             if(isp(i)){
                 ls.add(i);
