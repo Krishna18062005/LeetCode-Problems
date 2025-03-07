@@ -1,23 +1,34 @@
 class Solution {
     public int[] closestPrimes(int left, int right) {
-        ArrayList<Integer> ls=new ArrayList<>();
-        for(int i=left;i<=right;i++){
-            if(isp(i)){
-                ls.add(i);
-            }
-        }
-        int min=Integer.MAX_VALUE;
+        
+        boolean first=false;
         int fn=-1;
         int sn=-1;
-        for(int i=1;i<ls.size();i++){
-            if(min>Math.abs(ls.get(i)-ls.get(i-1))){
-                fn=ls.get(i-1);
-                sn=ls.get(i);
+         int min=Integer.MAX_VALUE;
+        int ans1=-1;
+        int ans2=-1;
+        for(int i=left;i<=right;i++){
+            if(isp(i)){
+                if(!first){
+                    fn=i;
+                    first=true;
+                    continue;
+                }
+                sn=i;
+
+                 if(fn!=-1&&sn!=-1&&min>Math.abs(fn-sn)){
+                ans1=fn;
+                ans2=sn;
                 min=Math.abs(fn-sn);
             }
-
+            fn=sn;
+            sn=-1;
+                
+            }
         }
-        int[] ans={fn,sn};
+       
+        
+        int[] ans={ans1,ans2};
         return ans;
 
     }
