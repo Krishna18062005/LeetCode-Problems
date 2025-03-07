@@ -1,17 +1,17 @@
 class Solution {
     public int[] closestPrimes(int left, int right) {
         
-        boolean first=false;
+        
         int fn=-1;
         int sn=-1;
-         int min=Integer.MAX_VALUE;
+        int min=Integer.MAX_VALUE;
         int ans1=-1;
         int ans2=-1;
         for(int i=left;i<=right;i++){
             if(isp(i)){
-                if(!first){
+                if(fn==-1){
                     fn=i;
-                    first=true;
+                    
                     continue;
                 }
                 sn=i;
