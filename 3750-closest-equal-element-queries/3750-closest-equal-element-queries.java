@@ -1,4 +1,10 @@
 class Solution {
+    public static void main(String args[]){
+        int[] nums={1,3,1,4,1,3,2};
+        int[] queries={0,3,5};
+        Solution obj=new Solution();
+        System.out.print(obj.solveQueries(nums,queries));
+    }
     public List<Integer> solveQueries(int[] nums, int[] queries) {
         HashMap<Integer,ArrayList<Integer>> map=new HashMap<>();
 
@@ -23,7 +29,7 @@ class Solution {
             else
             ans.add(task(i,ar,nums.length));
         }
-        System.out.println(map);
+        
         return ans;
     }
     public static int task(int ii,ArrayList<Integer> ls,int n){
