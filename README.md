@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3750-closest-equal-element-queries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-closest-equal-element-queries) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3750-closest-equal-element-queries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-closest-equal-element-queries) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 ## Linked List
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3750-closest-equal-element-queries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
