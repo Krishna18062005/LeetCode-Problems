@@ -15,9 +15,7 @@ class Solution {
       
         for (int[] q : queries) {
             diff[q[0]]--;
-            if (q[1] + 1 < n) {
-                diff[q[1] + 1]++; 
-            }
+            diff[q[1] + 1]++; 
         }
 
         
@@ -25,12 +23,11 @@ class Solution {
         for (int i = 0; i < n; i++) {
             current += diff[i]; 
             nums[i] += current;
+            if(nums[i]>0){
+                return false;
+            }
         }
 
-       
-        for (int num : nums) {
-            if (num > 0) return false;
-        }
         return true;
     }
 }
