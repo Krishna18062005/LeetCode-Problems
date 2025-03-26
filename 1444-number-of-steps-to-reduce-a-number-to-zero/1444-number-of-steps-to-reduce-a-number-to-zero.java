@@ -1,15 +1,12 @@
 class Solution {
     public int numberOfSteps(int num) {
+        if(num==0) return num;
         int c=0;
         while(num!=0){
             c++;
-            if(num%2==0){
-                num/=2;
-            }
-            else{
-                num-=1;
-            }
+            c+=(num&1);
+            num>>=1;
         }
-        return c;
+        return c-1;
     }
 }
