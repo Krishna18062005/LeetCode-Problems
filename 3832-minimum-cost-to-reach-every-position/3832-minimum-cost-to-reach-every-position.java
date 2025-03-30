@@ -1,6 +1,6 @@
 class Solution {
     public int[] minCosts(int[] cost) {
-        int min = Integer.MAX_VALUE;
+        int min = 101;
         int[] arr = new int[cost.length];
 
         for(int i=0;i<cost.length;i++){
