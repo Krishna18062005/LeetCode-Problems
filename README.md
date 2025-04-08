@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0461-hamming-distance) |
+| [0899-binary-gap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0899-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
