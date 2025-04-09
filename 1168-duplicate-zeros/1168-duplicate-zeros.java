@@ -1,6 +1,6 @@
 class Solution {
     public void duplicateZeros(int[] ar) {
-        int[] arr=Arrays.copyOf(ar,ar.length);
+        int[] arr=ar.clone();
         int n=arr.length;
         int j=0;
         for(int i:arr){
