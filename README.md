@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
+| [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [0907-koko-eating-bananas](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0932-monotonic-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0812-rotate-string) |
+| [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [0952-word-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
+| [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [0952-word-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
+| [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Merge Sort
 |  |
