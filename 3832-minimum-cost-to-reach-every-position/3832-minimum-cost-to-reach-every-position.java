@@ -1,13 +1,10 @@
 class Solution {
     public int[] minCosts(int[] cost) {
-        int min = 101;
-        int[] arr = new int[cost.length];
-
-        for(int i=0;i<cost.length;i++){
-            min = Math.min(cost[i],min);
-            arr[i] = min;
+        
+        for(int i=1;i<cost.length;i++){
+            cost[i] = Math.min(cost[i],cost[i-1]);
         }
-        return arr;
+        return cost;
         
     }
 }
