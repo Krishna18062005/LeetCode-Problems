@@ -1,11 +1,11 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
       int c=0;
-      int fr[]=new int[3001];
+      int fr[]=new int[2001];
       for(int i:arr){
         fr[i]++;
       }
-      for(int i=1;i<3001;i++){
+      for(int i=1;i<2001;i++){
         if(fr[i]==0){
             c++;
         }
