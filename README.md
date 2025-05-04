@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [0952-word-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
