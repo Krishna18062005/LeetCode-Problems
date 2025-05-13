@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [0907-koko-eating-bananas](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
