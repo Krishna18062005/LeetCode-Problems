@@ -1,7 +1,7 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
         int c = 0;
-        LinkedHashMap<String, Integer> se = new LinkedHashMap<>();
+        HashMap<String, Integer> se = new HashMap<>();
         for (int i = 0; i < arr.length; i++) {
             se.put(arr[i], se.getOrDefault(arr[i], 0) + 1);
         }
