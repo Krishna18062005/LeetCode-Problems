@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
