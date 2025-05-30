@@ -1,47 +1,45 @@
 class Solution {
-    public void bfs(int startNode, int[] edges, int[] dist) {
-        int n = edges.length;
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(startNode);
-
-        Boolean[] visit = new Boolean[n];
-        Arrays.fill(visit, Boolean.FALSE);
-        dist[startNode] = 0;
-
-        while (!q.isEmpty()) {
-            int node = q.poll();
-
-            if (visit[node]) {
-                continue;
-            }
-
-            visit[node] = true;
-            int neighbor = edges[node];
-            if (neighbor != -1 && !visit[neighbor]) {
-                dist[neighbor] = 1 + dist[node];
-                q.offer(neighbor);
-            }
-
-        }
-    }
-
     public int closestMeetingNode(int[] edges, int node1, int node2) {
         int n = edges.length;
-        int[] dist1 = new int[n], dist2 = new int[n];
-        Arrays.fill(dist1, Integer.MAX_VALUE);
-        Arrays.fill(dist2, Integer.MAX_VALUE);
+        int[] dist1 = new int[n];
+        int[] dist2 = new int[n];
+        boolean[] vis1 = new boolean[n];
+        boolean[] vis2 = new boolean[n];
 
-        bfs(node1, edges, dist1);
-        bfs(node2, edges, dist2);
+        // Initialize distances to a large value
+        final int INF = (int) 1e6;
+        for (int i = 0; i < n; i++) {
+            dist1[i] = INF;
+            dist2[i] = INF;
+        }
 
-        int minDistNode = -1, minDistTillNow = Integer.MAX_VALUE;
-        for (int currNode = 0; currNode < n; currNode++) {
-            if (minDistTillNow > Math.max(dist1[currNode], dist2[currNode])) {
-                minDistNode = currNode;
-                minDistTillNow = Math.max(dist1[currNode], dist2[currNode]);
+        // Traverse from node1
+        for (int i = node1, len = 0; i != -1 && !vis1[i]; i = edges[i]) {
+            dist1[i] = len++;
+            vis1[i] = true;
+        }
+
+        // Traverse from node2
+        for (int i = node2, len = 0; i != -1 && !vis2[i]; i = edges[i]) {
+            dist2[i] = len++;
+            vis2[i] = true;
+        }
+
+        int minDist = (int) 1e5;
+        int result = -1;
+
+        for (int i = 0; i < n; i++) {
+            if (dist1[i] == INF || dist2[i] == INF) continue;
+            int maxDist = Math.max(dist1[i], dist2[i]);
+
+            if (maxDist < minDist) {
+                minDist = maxDist;
+                result = i;
+            } else if (maxDist == minDist && i < result) {
+                result = i;
             }
         }
 
-        return minDistNode;
+        return result;
     }
 }
