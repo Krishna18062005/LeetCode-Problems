@@ -1,45 +1,31 @@
 class Solution {
     public int closestMeetingNode(int[] edges, int node1, int node2) {
-        int n = edges.length;
-        int[] dist1 = new int[n];
-        int[] dist2 = new int[n];
-        boolean[] vis1 = new boolean[n];
-        boolean[] vis2 = new boolean[n];
-
-        // Initialize distances to a large value
-        final int INF = (int) 1e6;
-        for (int i = 0; i < n; i++) {
-            dist1[i] = INF;
-            dist2[i] = INF;
+       int n = edges.length;
+        int[] d1 = new int[n];
+        Arrays.fill(d1, -1);
+        int[] d2 = new int[n];
+        Arrays.fill(d2, -1);
+        int d=0;
+        while (node1 != -1 && d1[node1] == -1) {
+            d1[node1] = d++;
+            node1 = edges[node1];
         }
-
-        // Traverse from node1
-        for (int i = node1, len = 0; i != -1 && !vis1[i]; i = edges[i]) {
-            dist1[i] = len++;
-            vis1[i] = true;
+        d=0;
+        while (node2 != -1 && d2[node2] == -1) {
+            d2[node2] = d++;
+            node2 = edges[node2];
         }
-
-        // Traverse from node2
-        for (int i = node2, len = 0; i != -1 && !vis2[i]; i = edges[i]) {
-            dist2[i] = len++;
-            vis2[i] = true;
-        }
-
-        int minDist = (int) 1e5;
-        int result = -1;
-
-        for (int i = 0; i < n; i++) {
-            if (dist1[i] == INF || dist2[i] == INF) continue;
-            int maxDist = Math.max(dist1[i], dist2[i]);
-
-            if (maxDist < minDist) {
-                minDist = maxDist;
-                result = i;
-            } else if (maxDist == minDist && i < result) {
-                result = i;
+        int dist = Integer.MAX_VALUE;
+        int index = -1;
+        for (int i=0; i<n; i++) {
+            if (d1[i] != -1 && d2[i] != -1) {
+                d = Math.max(d1[i], d2[i]);
+                if (d < dist) {
+                    dist = d;
+                    index = i;
+                }
             }
         }
-
-        return result;
+        return index;
     }
 }
