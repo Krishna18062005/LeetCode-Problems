@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
