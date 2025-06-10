@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3750-closest-equal-element-queries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-closest-equal-element-queries) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
