@@ -16,7 +16,7 @@ class Solution {
         s=num+"";
         char ch = s.charAt(0);
         int min = Integer.parseInt(s.replace(ch , '0'));
-        System.out.println(max + " " + min);
+       
         return max - min;
 
     }
