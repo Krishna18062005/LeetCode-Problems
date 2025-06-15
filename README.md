@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0979-di-string-match](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
