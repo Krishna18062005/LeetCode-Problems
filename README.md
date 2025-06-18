@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3893-generate-tag-for-video-caption](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Brainteaser
 |  |
 | ------- |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3893-generate-tag-for-video-caption](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Number Theory
 |  |
 | ------- |
