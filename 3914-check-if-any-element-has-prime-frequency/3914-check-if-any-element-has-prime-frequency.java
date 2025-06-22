@@ -8,7 +8,12 @@ class Solution {
         return true;
     }
     public boolean checkPrimeFrequency(int[] nums) {
-       int freq[]=new int[101];
+    
+       int max=-1;
+       for(int i:nums){
+        max=Math.max(max,i);
+       }
+       int freq[]=new int[max+1];
        for(int i:nums){
         freq[i]++;
        } 
