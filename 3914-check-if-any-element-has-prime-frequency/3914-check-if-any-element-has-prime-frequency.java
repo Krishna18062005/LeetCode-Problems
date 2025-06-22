@@ -16,12 +16,12 @@ class Solution {
        }
 
        int freq[]=new int[max+1];
-       for(int i:nums){
-        freq[i]++;
+       for(int i=0;i<nums.length;i++){
+        freq[nums[i]]++;
        } 
       // System.out.println(Arrays.toString(freq));
-       for(int i:freq){
-        if(isPrime(i)){
+       for(int i=0;i<=max;i++){
+        if(isPrime(freq[i])){
             return true;
         }
        }
