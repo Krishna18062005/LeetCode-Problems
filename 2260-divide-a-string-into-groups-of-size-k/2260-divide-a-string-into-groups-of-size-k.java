@@ -6,7 +6,7 @@ class Solution {
             need--;
             filler+=fill;
         }
-        System.out.print(filler);
+      
         int size=s.length()/k;
         int req=(s.length()%k);
         req=k-req;
