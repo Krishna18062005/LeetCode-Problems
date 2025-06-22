@@ -19,7 +19,7 @@ class Solution {
        for(int i:nums){
         freq[i]++;
        } 
-       System.out.println(Arrays.toString(freq));
+      // System.out.println(Arrays.toString(freq));
        for(int i:freq){
         if(isPrime(i)){
             return true;
