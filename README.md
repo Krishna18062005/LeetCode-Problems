@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1877-find-followers-count) |
 | [1942-primary-department-for-each-employee](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Ordered Set
 |  |
 | ------- |
