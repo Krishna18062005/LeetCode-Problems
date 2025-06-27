@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1256-rank-transform-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0744-network-delay-time](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
