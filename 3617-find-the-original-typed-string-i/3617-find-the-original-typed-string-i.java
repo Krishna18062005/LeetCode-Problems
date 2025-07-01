@@ -4,7 +4,7 @@ class Solution {
         char prev=word.charAt(0);
         for(int i=0;i<word.length();i++){
             if(prev==word.charAt(i)) c++;
-            prev=word.charAt(i);
+            else prev=word.charAt(i);
         }
         return c;
     }
