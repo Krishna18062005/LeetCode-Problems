@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2089-maximum-matrix-sum) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Function
 |  |
