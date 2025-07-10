@@ -1,15 +1,15 @@
 class Solution {
     public int partitionString(String s) {
-        int[] arr = new int[26];
-        int ans =1;
+        int[] fr = new int[26];
+        int as =1;
         for(int i=0;i<s.length();i++){
             char t = s.charAt(i);
-            if(arr[t-'a']!=0){
-                ans++;
-                Arrays.fill(arr,0);
+            if(fr[t-'a']!=0){
+                as++;
+                Arrays.fill(fr,0);
             }
-            arr[t-'a']++;
+            fr[t-'a']++;
         }
-        return ans;
+        return as;
     }
 }
