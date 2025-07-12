@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0319-bulb-switcher) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0861-flipping-an-image) |
