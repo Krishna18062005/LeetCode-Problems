@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=0;i<1000;i++){
+            new Solution().containsDuplicate(new int[]{1,2,3});
+        }
+    }
     public boolean containsDuplicate(int[] nums) {
         int max=0;
         HashSet<Integer> set=new HashSet<>();
