@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0066-plus-one) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0861-flipping-an-image) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
