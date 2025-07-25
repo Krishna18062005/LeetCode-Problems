@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Union Find
 |  |
 | ------- |
