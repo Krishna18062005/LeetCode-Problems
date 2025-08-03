@@ -1,37 +1,33 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
+
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        
-        if(head == null || left == right) return head;
 
-        int i = 1;
-        ListNode ans = head;
-        while(i<left-1 && head !=null)  {
-            head = head.next;
-            i++;
-        }
-        ListNode tt = head;
-        ListNode lef = left==1 ? head : head.next;
        
-        while(head != null && i<=right) { head = head.next;i++;}
-        ListNode node = head;
+        if (head == null || left == right) return head;
 
-        while(lef!=head){
-            ListNode temp = lef.next;
-            lef.next = node;
-            node = lef;
-            lef = temp;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
+        ListNode nodeBeforeLeft = dummy;
+        for (int i = 0; i < left - 1; i++) {
+            nodeBeforeLeft = nodeBeforeLeft.next;
         }
-        if(left>1) tt.next = node;
-        return left > 1 ? ans : node;
+
+        ListNode sublistTail = nodeBeforeLeft.next;
+        ListNode prev = null, curr = sublistTail;
+
+        for (int i = 0; i <= right - left; i++) {
+            ListNode nextNode = curr.next; //Save next
+            curr.next = prev; // Reverse link
+            prev = curr; //Move prev
+            curr = nextNode; //Move curr
+        }
+
+        // \U0001f517 Step 3: Reconnect reversed sublist
+        nodeBeforeLeft.next = prev; // Connect start of reversed part
+        sublistTail.next = curr; // Connect end of reversed part
+
+       
+        return dummy.next;
     }
 }
