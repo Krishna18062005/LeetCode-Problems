@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0619-biggest-single-number) |
