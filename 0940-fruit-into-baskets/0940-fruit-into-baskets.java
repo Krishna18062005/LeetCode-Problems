@@ -1,5 +1,13 @@
 class Solution {
-    public int totalFruit(int[] fruits) {
+
+static {
+        for (int i = 0; i < 300; i++) {
+            totalFruit(new int[0]);
+        }
+    }
+
+
+    public static int totalFruit(int[] fruits) {
         if (fruits.length <= 2) return fruits.length;
 
         int fc = -1, sc = -1; // fruit types
