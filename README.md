@@ -958,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
+| [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
 |  |
 | ------- |
