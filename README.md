@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0749-shortest-completing-word) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
