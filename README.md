@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3321-type-of-triangle) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3447-clear-digits) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
