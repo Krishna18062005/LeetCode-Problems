@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0461-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0899-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
