@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0338-counting-bits) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Probability and Statistics
