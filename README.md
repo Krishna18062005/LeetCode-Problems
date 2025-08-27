@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0551-student-attendance-record-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
