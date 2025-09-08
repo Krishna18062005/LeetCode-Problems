@@ -6,7 +6,7 @@ class Solution {
             lst.add(i);
             map.put(groupSizes[i],lst);
         }
-        System.out.println(map);
+        
         List<List<Integer>> ans=new ArrayList<>();
         for(int i:map.keySet()){
             int t=map.get(i).size()/i;
