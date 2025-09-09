@@ -834,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0077-combinations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
