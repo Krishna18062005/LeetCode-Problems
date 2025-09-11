@@ -4,14 +4,14 @@ class Solution {
         String vowel="aeiouAEIOU";
         for(int i=0;i<s.length();i++) if(vowel.indexOf(s.charAt(i))!=-1) vo.add(s.charAt(i));
         Collections.sort(vo);
-        String ans="";
+        StringBuilder ans=new StringBuilder("");
         int ind=0;
-         for(int i=0;i<s.length();i++) {if(vowel.indexOf(s.charAt(i))!=-1) ans+=vo.get(ind++);
+         for(int i=0;i<s.length();i++) {if(vowel.indexOf(s.charAt(i))!=-1) ans.append(vo.get(ind++));
          else{
-            ans+=s.charAt(i);
+            ans.append(s.charAt(i));
          }
          }
-        return ans;
+        return ans.toString();
 
     }
 }
