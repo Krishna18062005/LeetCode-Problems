@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0290-word-pattern) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 ## Divide and Conquer
