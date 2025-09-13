@@ -14,16 +14,14 @@
  * }
  */
 class Solution {
-     int cc=0;
-    public int sumOfLeftLeaves(TreeNode root) {
-        
-         cc=0;
-        fxn(root, 1);
+    int cc = 0;
 
+    public int sumOfLeftLeaves(TreeNode root) {
+        fxn(root, 1);
         return cc;
     }
 
-     void fxn(TreeNode root, int f) {
+    void fxn(TreeNode root, int f) {
         if (root.left == null && root.right == null) {
             if (f == 0)
                 cc += root.val;
@@ -33,7 +31,7 @@ class Solution {
             fxn(root.right, 1);
         } else if (root.left != null)
             fxn(root.left, 0);
-        else if(root.right!=null)
+        else if (root.right != null)
             fxn(root.right, 1);
     }
 
