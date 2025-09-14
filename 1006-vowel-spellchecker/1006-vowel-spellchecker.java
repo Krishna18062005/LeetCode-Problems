@@ -1,7 +1,8 @@
 class Solution {
     public String[] spellchecker(String[] wordlist, String[] queries) {
         Set<String> st = new HashSet<>();
-        for(String i:wordlist) st.add(i);
+        for (String i : wordlist)
+            st.add(i);
         HashMap<String, String> mapc = new HashMap<>();
         HashMap<String, String> mapv = new HashMap<>();
         for (String i : wordlist) {
@@ -26,7 +27,7 @@ class Solution {
                     ans[ind++] = "";
                 }
             }
-        }
+        }System.gc();
         return ans;
 
     }
