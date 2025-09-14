@@ -1,8 +1,8 @@
 class Solution {
     public String[] spellchecker(String[] wordlist, String[] queries) {
         Set<String> st = new HashSet<>(Arrays.asList(wordlist));
-        HashMap<String, String> mapc = new HashMap<>();
-        HashMap<String, String> mapv = new HashMap<>();
+        Map<String, String> mapc = new HashMap<>();
+        Map<String, String> mapv = new HashMap<>();
         for (String i : wordlist) {
             String lower = i.toLowerCase();
             String vowel = lower.replaceAll("[aeiou]", "#");
