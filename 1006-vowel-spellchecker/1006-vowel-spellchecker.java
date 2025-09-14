@@ -1,6 +1,7 @@
 class Solution {
     public String[] spellchecker(String[] wordlist, String[] queries) {
-        Set<String> st = new HashSet<>(Arrays.asList(wordlist));
+        Set<String> st = new HashSet<>();
+        for(String i:wordlist) st.add(i);
         HashMap<String, String> mapc = new HashMap<>();
         HashMap<String, String> mapv = new HashMap<>();
         for (String i : wordlist) {
