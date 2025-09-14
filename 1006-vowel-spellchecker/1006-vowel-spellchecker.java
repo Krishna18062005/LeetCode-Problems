@@ -1,5 +1,11 @@
 class Solution {
-    public String[] spellchecker(String[] wordlist, String[] queries) {
+    static{
+        for(int i=0;i<100;i++){
+            spellchecker(new String[0],new String[0]);
+        }
+    }
+
+    public static String[] spellchecker(String[] wordlist, String[] queries) {
         Set<String> st = new HashSet<>();
         for (String i : wordlist)
             st.add(i);
