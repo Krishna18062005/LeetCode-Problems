@@ -7,7 +7,7 @@ class Solution {
             s+=i;
         }
         s/=nums.length;
-        System.out.println(s);
+        //System.out.println(s);
         s=Math.max(s,0);
         s++;
         while(s!=102){
