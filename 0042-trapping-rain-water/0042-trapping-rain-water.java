@@ -19,6 +19,7 @@ class Solution {
 
             }
         }
+        System.gc();
         return water;
     }
 }
