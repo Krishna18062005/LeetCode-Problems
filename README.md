@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3750-closest-equal-element-queries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
+| [3678-design-task-manager](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Shortest Path
 |  |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2447-merge-similar-items](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2447-merge-similar-items) |
+| [3678-design-task-manager](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
 |  |
