@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Greedy
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3709-find-special-substring-of-length-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3893-generate-tag-for-video-caption) |
 | [3931-process-string-with-special-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3931-process-string-with-special-operations-i) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3797-design-spreadsheet](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3678-design-task-manager](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Hash Function
 |  |
 | ------- |
@@ -964,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3797-design-spreadsheet](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Breadth-First Search
 |  |
 | ------- |
