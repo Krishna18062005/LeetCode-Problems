@@ -1,109 +1,91 @@
-class Pair {
-    int source;
-    int destination;
-    int timeStamp;
-
-    Pair(int source, int destination, int timeStamp) {
-        this.source = source;
-        this.destination = destination;
-        this.timeStamp = timeStamp;
-    }
-}
-
-
 class Router {
-    Queue<Pair> q;
-    Set<String> set;
-    Map<Integer, List<Integer>> destMap;
+    Deque<int[]>que;
+    HashMap<Integer,List<int[]>>map;
     int size;
-
     public Router(int memoryLimit) {
-        q = new LinkedList<>();
-        set = new HashSet<>();
-        destMap = new HashMap<>();
-        size = memoryLimit;
+        que=new LinkedList<>();
+        map=new HashMap<>();
+        this.size=memoryLimit;
     }
     
     public boolean addPacket(int source, int destination, int timestamp) {
-        String key = source + "#" + destination + "#" + timestamp;
-        if(set.contains(key)) return false;
-
-        q.offer(new Pair(source, destination, timestamp));
-        set.add(key);
-
-        destMap.putIfAbsent(destination, new ArrayList<>());
-        destMap.get(destination).add(timestamp);
-
-        if(q.size() > size) {
-            Pair removed = q.poll();
-            String oldKey = removed.source + "#" + removed.destination + "#" + removed.timeStamp;
-            set.remove(oldKey);
-
-            List<Integer> list = destMap.get(removed.destination);
-            list.remove(0);
-            if(list.isEmpty()) {
-                destMap.remove(removed.destination);
+        
+        if(!map.containsKey(destination)){
+            map.put(destination,new ArrayList<>());
+        }
+        List<int[]>list=map.get(destination);
+        int left=small(list,timestamp);
+        
+        if(list.size()!=0){
+            // System.out.println(left);
+            // for(int []a:list)System.out.println(Arrays.toString(a));
+            for(int i=left;i<list.size() && list.get(i)[1]==timestamp;i++){
+                // System.out.println(left);
+                if(list.get(i)[0]==source)return false;
             }
         }
+        map.get(destination).add(new int[]{source,timestamp});
+        que.addLast(new int[]{source,destination,timestamp});
+        if(que.size()>size){
+            forwardPacket();
+        }
+        
         return true;
+        
     }
     
     public int[] forwardPacket() {
-        if(!q.isEmpty()) {
-            Pair p = q.poll();
-            String oldKey = p.source + "#" + p.destination + "#" + p.timeStamp;
-            set.remove(oldKey);
-
-            List<Integer> list = destMap.get(p.destination);
-            list.remove(0);
-            if(list.isEmpty()) destMap.remove(p.destination);
-            return new int[]{p.source, p.destination, p.timeStamp};
-        }
-        return new int[]{};
+        if(que.size()==0)return new int[0];
+        int[]arr=que.pollFirst();
+        // System.out.println(Arrays.toString(arr));
+        map.get(arr[1]).remove(0);
+        return arr;
     }
     
     public int getCount(int destination, int startTime, int endTime) {
-        if(!destMap.containsKey(destination)) return 0;
-        List<Integer> list = destMap.get(destination);
-
-        int left = lowerBound(list, startTime);
-        int right = upperBound(list, endTime);
-
-        return (left <= right) ? (right - left + 1) : 0;
+        if(!map.containsKey(destination)){
+            return 0;
+        }
+        List<int[]>list=map.get(destination);
+        int left=small(list,startTime);
+        int right=big(list,endTime);
+        if(left>right)return 0;
+        return right-left+1;
     }
-
-    public int lowerBound(List<Integer> list, int time) {
-        int low = 0;
-        int high = list.size() - 1;
-        int ans = list.size();
-
-        while(low <= high) {
-            int mid = (low + high) / 2;
-            if(list.get(mid) >= time) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+    public int small(List<int[]>list,int start){
+        int left=0;
+        int right=list.size()-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(list.get(mid)[1]>=start){
+                right=mid-1;
+            }
+            else{
+                left=mid+1;
             }
         }
-        return ans;
+        return left;
     }
-
-    public int upperBound(List<Integer> list, int time) {
-        int low = 0;
-        int high = list.size() - 1;
-        int ans = -1;
-
-        while(low <= high) {
-            int mid = (low + high) / 2;
-            if(list.get(mid) > time) {
-                high = mid - 1;
-            } else {
-                ans = mid;
-                low = mid + 1;
+    public int big(List<int[]>list,int end){
+        int left=0;
+        int right=list.size()-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(list.get(mid)[1]>end){
+                right=mid-1;
+            }
+            else{
+                left=mid+1;
             }
         }
-        return ans;
+        return right;
     }
 }
 
+/**
+ * Your Router object will be instantiated and called as such:
+ * Router obj = new Router(memoryLimit);
+ * boolean param_1 = obj.addPacket(source,destination,timestamp);
+ * int[] param_2 = obj.forwardPacket();
+ * int param_3 = obj.getCount(destination,startTime,endTime);
+ */
