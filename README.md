@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3827-implement-router](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3827-implement-router) |
 ## Tree
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
