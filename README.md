@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0648-replace-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0979-di-string-match](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0979-di-string-match) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -839,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1256-rank-transform-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
