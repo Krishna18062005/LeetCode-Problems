@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0749-shortest-completing-word) |
+| [0830-largest-triangle-area](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [0861-flipping-an-image](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0861-flipping-an-image) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Bucket Sort
 |  |
