@@ -6,7 +6,7 @@ class Solution {
         while(numExchange<=emp){
         max++;
             
-        emp-=numExchange-1;
+        emp=emp-(numExchange-1);
         numExchange++;
             
         }
