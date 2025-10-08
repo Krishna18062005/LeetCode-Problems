@@ -6,7 +6,7 @@ class Solution {
             int l=0;
             int r=potions.length;
             while(l<r){
-                int mid=(l)+(r-l)/2;
+                int mid=(l+r)/2;
                 if((long)spells[i]*potions[mid]>=success){
                     r=mid;
                 }
