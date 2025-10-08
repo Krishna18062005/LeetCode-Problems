@@ -14,7 +14,7 @@ class Solution {
                     l=mid+1;
                 }
             }
-            //System.out.println(l+" "+r);
+            
             ans[i]=potions.length-l;
         }
         return ans;
