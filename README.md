@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3893-generate-tag-for-video-caption) |
 | [3931-process-string-with-special-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3931-process-string-with-special-operations-i) |
+| [4052-equal-score-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4052-equal-score-substrings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3639-zero-array-transformation-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [4052-equal-score-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4052-equal-score-substrings) |
 ## Queue
 |  |
 | ------- |
