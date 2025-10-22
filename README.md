@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3893-generate-tag-for-video-caption](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3893-generate-tag-for-video-caption) |
 | [3931-process-string-with-special-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3931-process-string-with-special-operations-i) |
 | [4052-equal-score-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4052-equal-score-substrings) |
+| [4055-longest-balanced-substring-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Linked List
 |  |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
+| [4055-longest-balanced-substring-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Design
 |  |
