@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3632-button-with-longest-push-time) |
 | [3639-zero-array-transformation-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3893-generate-tag-for-video-caption) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [4052-equal-score-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/4052-equal-score-substrings) |
 ## Queue
