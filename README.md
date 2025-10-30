@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2619-categorize-box-according-to-criteria) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
