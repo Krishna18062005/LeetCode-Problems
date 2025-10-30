@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2083-three-divisors](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2507-number-of-common-factors](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2541-sum-of-number-and-its-reverse) |
