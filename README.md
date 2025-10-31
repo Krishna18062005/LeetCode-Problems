@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2619-categorize-box-according-to-criteria) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
