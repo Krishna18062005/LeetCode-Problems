@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0118-pascals-triangle) |
