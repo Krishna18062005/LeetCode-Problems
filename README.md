@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
