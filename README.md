@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0434-number-of-segments-in-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0520-detect-capital) |
