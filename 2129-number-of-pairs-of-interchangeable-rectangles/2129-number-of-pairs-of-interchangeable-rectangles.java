@@ -19,7 +19,7 @@ class Solution {
             while (l <= r) {
                 int mid = (l + r) / 2;
                 double second = (double) rectangles[mid][0] / rectangles[mid][1];
-                if (Math.abs(first - second) ==0) {
+                if (Math.abs(first - second) == 0) {
                     as = mid;
                     l = mid + 1;
                 } else if (second > first) {
