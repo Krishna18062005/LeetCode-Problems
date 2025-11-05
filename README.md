@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1764-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1797-goal-parser-interpretation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
