@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2169-simple-bank-system) |
