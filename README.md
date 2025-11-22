@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3199-distribute-candies-among-children-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
