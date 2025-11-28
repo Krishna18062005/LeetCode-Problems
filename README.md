@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2169-simple-bank-system) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
