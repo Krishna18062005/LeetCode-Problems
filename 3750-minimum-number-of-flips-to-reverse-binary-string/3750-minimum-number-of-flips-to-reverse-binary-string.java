@@ -6,8 +6,8 @@ class Solution {
         int j=bin.length()-1;
 
         while(i<j&&j>0){
-          if(bin.charAt(i)!=bin.charAt(j)) c+=2;i++;j--;
+          if(bin.charAt(i)!=bin.charAt(j)) c++;i++;j--;
         }
-        return c;
+        return c*2;
     }
 }
