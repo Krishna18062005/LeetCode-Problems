@@ -1,11 +1,12 @@
 class Solution {
     public int maxDistinct(String s) {
         int c=0;
-        int[] fr=new int[26];
+        boolean[] fr=new boolean[26];
         for(int i=0;i<s.length();i++){
-            fr[s.charAt(i)-'a']++;
-            if(fr[s.charAt(i)-'a']==1) c++;
+            fr[s.charAt(i)-'a']=true;
+            
         }
+        for(var i:fr) if(i) c++;
         return c;
     }
 }
