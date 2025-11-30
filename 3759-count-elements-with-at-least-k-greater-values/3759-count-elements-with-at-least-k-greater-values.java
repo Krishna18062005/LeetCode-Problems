@@ -3,13 +3,13 @@ class Solution {
        int n = nums.length;
         if(k == 0) return n;
         Arrays.sort(nums);
-        int t = n - k;
-        int tv = nums[t];
-        int count = 0;
+       
+        int te = nums[n - k];
+        int c = 0;
         for(int num : nums){
-            if(num < tv) count++;
+            if(num < te) c++;
         }
-        return count;
+        return c;
         
     }
 }
