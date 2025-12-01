@@ -1206,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0610-triangle-judgement) |
