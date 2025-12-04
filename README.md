@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
