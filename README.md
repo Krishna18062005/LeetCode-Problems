@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Combinatorics
@@ -1131,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -1151,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0744-network-delay-time](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0744-network-delay-time) |
