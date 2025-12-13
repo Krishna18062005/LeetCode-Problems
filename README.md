@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3827-implement-router) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## String
 |  |
 | ------- |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
