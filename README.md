@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
@@ -1198,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3678-design-task-manager](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Shortest Path
