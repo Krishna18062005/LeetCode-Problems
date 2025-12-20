@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0839-short-encoding-of-words) |
 | [0874-backspace-string-compare](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
