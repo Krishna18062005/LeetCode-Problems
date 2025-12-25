@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1396-count-servers-that-communicate](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1195-distribute-candies-to-people](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1195-distribute-candies-to-people) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
