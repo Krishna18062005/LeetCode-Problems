@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3750-closest-equal-element-queries](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3827-implement-router) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
