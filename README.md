@@ -1276,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1877-find-followers-count) |
 | [1942-primary-department-for-each-employee](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Ordered Set
 |  |
 | ------- |
