@@ -921,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0744-network-delay-time](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
