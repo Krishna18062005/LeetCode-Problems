@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
