@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3336-water-bottles-ii) |
