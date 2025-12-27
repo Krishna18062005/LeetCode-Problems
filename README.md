@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1797-goal-parser-interpretation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1844-replace-all-digits-with-characters](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1844-replace-all-digits-with-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1944-truncate-sentence) |
