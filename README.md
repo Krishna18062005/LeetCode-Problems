@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2107-find-unique-binary-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2083-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2507-number-of-common-factors](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
