@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
 | [2478-longest-nice-subarray](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-apply-operations-to-an-array](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3516-design-neighbor-sum-service](https://github.com/Krishna18062005/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
