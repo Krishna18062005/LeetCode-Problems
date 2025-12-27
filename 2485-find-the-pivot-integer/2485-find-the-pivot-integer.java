@@ -5,7 +5,7 @@ class Solution {
         int cs=0;
         for(int i=1;i<=n;i++){
             cs+=i;
-            System.out.println(cs+" "+s);
+           
             if(cs*2-i==s) return i;
         }
         return -1;
